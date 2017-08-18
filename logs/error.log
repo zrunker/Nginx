@@ -1,0 +1,384 @@
+2017/08/16 10:27:04 [notice] 8296#6064: signal process started
+2017/08/16 10:29:38 [notice] 3444#3368: signal process started
+2017/08/16 10:30:13 [emerg] 1544#1548: unexpected "}" in E:\nginx-1.12.1/conf/nginx.conf:45
+2017/08/16 10:30:31 [notice] 4692#7620: signal process started
+2017/08/16 10:31:17 [notice] 1744#2212: signal process started
+2017/08/16 10:33:08 [notice] 6500#1168: signal process started
+2017/08/16 10:33:08 [error] 6500#1168: OpenEvent("Global\ngx_reload_5052") failed (2: The system cannot find the file specified)
+2017/08/16 10:33:26 [notice] 7120#8856: signal process started
+2017/08/16 10:34:42 [error] 8796#4060: *9 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost:8080, request: "GET /tomcat.css HTTP/1.1", upstream: "http://[::1]:8080/tomcat.css", host: "localhost", referrer: "http://localhost/"
+2017/08/16 10:34:55 [error] 8796#4060: *22 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost:8080, request: "GET / HTTP/1.1", upstream: "http://[::1]:8080/", host: "localhost"
+2017/08/16 10:38:13 [notice] 228#6308: signal process started
+2017/08/16 10:38:15 [notice] 8112#1440: signal process started
+2017/08/16 10:38:17 [notice] 8360#3204: signal process started
+2017/08/16 10:39:20 [notice] 8984#6140: signal process started
+2017/08/16 10:39:22 [notice] 1340#5780: signal process started
+2017/08/16 10:39:23 [notice] 7136#5940: signal process started
+2017/08/16 10:40:27 [error] 2624#4504: *53 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost:8080, request: "GET /index.jsp HTTP/1.1", upstream: "http://[::1]:8080/index.jsp", host: "localhost"
+2017/08/16 10:40:41 [error] 3296#5116: *56 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/ROOT/index.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost:8080, request: "GET / HTTP/1.1", host: "localhost"
+2017/08/16 10:57:59 [notice] 7432#3336: signal process started
+2017/08/16 11:22:49 [notice] 5168#2160: signal process started
+2017/08/16 11:23:46 [notice] 7648#4976: signal process started
+2017/08/16 11:23:47 [notice] 6928#4748: signal process started
+2017/08/16 11:23:48 [notice] 7648#8144: signal process started
+2017/08/16 11:23:49 [notice] 9004#2752: signal process started
+2017/08/16 11:24:23 [notice] 7704#1124: signal process started
+2017/08/16 11:33:23 [error] 7580#3944: *9 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ibooker/web/article/list/1 HTTP/1.1", upstream: "http://[::1]:8080/ibooker/web/article/list/1", host: "localhost", referrer: "http://localhost/ibooker/"
+2017/08/16 11:34:39 [error] 7580#3944: *17 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ibooker/web/article/list/1 HTTP/1.1", upstream: "http://[::1]:8080/ibooker/web/article/list/1", host: "localhost", referrer: "http://localhost/ibooker/welcome.jsp"
+2017/08/16 11:36:02 [error] 7580#3944: *25 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ibooker/web/article/list/1 HTTP/1.1", upstream: "http://[::1]:8080/ibooker/web/article/list/1", host: "localhost", referrer: "http://localhost/ibooker/"
+2017/08/16 11:38:19 [notice] 720#5168: signal process started
+2017/08/16 11:39:02 [error] 9368#3460: *1 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/ibooker/"
+2017/08/16 11:39:02 [error] 9368#3460: *1 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/ibooker/"
+2017/08/16 11:44:02 [error] 9368#3460: *2 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ibooker/web/article/list/1 HTTP/1.1", upstream: "http://[::1]:8080/ibooker/web/article/list/1", host: "localhost", referrer: "http://localhost/ibooker/"
+2017/08/16 11:45:33 [error] 9368#3460: *5 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ibooker/web/article/list/1 HTTP/1.1", upstream: "http://[::1]:8080/ibooker/web/article/list/1", host: "localhost", referrer: "http://localhost/ibooker/welcome.jsp"
+2017/08/16 11:48:02 [error] 9368#3460: *10 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ibooker/web/article/list/1 HTTP/1.1", upstream: "http://[::1]:8080/ibooker/web/article/list/1", host: "localhost", referrer: "http://localhost/ibooker/"
+2017/08/16 12:18:59 [error] 9368#3460: *20 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:18:59 [error] 9368#3460: *20 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:32:51 [error] 9368#3460: *28 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:32:51 [error] 9368#3460: *28 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:32:51 [error] 9368#3460: *28 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:32:51 [error] 9368#3460: *28 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:32:51 [error] 9368#3460: *28 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:32:51 [error] 9368#3460: *28 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:32:51 [error] 9368#3460: *28 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:32:51 [error] 9368#3460: *28 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:33:17 [error] 9368#3460: *31 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:33:17 [error] 9368#3460: *31 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:33:17 [error] 9368#3460: *31 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:33:17 [error] 9368#3460: *31 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:33:18 [error] 9368#3460: *31 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:33:18 [error] 9368#3460: *31 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:33:18 [error] 9368#3460: *34 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/ibooker/"
+2017/08/16 12:33:18 [error] 9368#3460: *34 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/ibooker/"
+2017/08/16 12:34:12 [notice] 9968#10092: signal process started
+2017/08/16 12:34:32 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:32 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:32 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:32 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:32 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:32 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:32 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:32 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:32 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:32 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:32 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:32 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:32 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:32 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:32 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:32 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:32 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:32 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:33 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:33 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:33 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:33 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:33 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:33 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:33 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:33 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:33 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:33 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:33 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:33 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:34:34 [error] 7980#9424: *35 CreateFile() "E:\MyEclipse\apache-tomcat-7.0.72-windows-x64\apache-tomcat-7.0.72\webapps/ibooker/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 12:38:57 [warn] 4248#10776: duplicate MIME type "text/html" in E:\nginx-1.12.1/conf/gzip.conf:7
+2017/08/16 12:38:57 [notice] 4248#10776: signal process started
+2017/08/16 12:38:57 [warn] 7664#10356: duplicate MIME type "text/html" in E:\nginx-1.12.1/conf/gzip.conf:7
+2017/08/16 12:38:57 [warn] 9912#10376: duplicate MIME type "text/html" in E:\nginx-1.12.1/conf/gzip.conf:7
+2017/08/16 12:39:36 [error] 7980#9424: *35 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ibooker/web/article/list/1 HTTP/1.1", upstream: "http://[::1]:8080/ibooker/web/article/list/1", host: "localhost", referrer: "http://localhost/ibooker/"
+2017/08/16 12:45:45 [notice] 7984#1880: signal process started
+2017/08/16 12:51:38 [notice] 4736#4732: signal process started
+2017/08/16 12:51:38 [notice] 2780#10196: using the "select" event method
+2017/08/16 12:51:38 [notice] 2780#10196: start worker processes
+2017/08/16 12:51:38 [notice] 2780#10196: start worker process 10812
+2017/08/16 12:51:38 [notice] 10812#9524: nginx/1.12.1
+2017/08/16 12:51:38 [info] 10812#9524: OS: 260200 build:9200, "", suite:100, type:1
+2017/08/16 12:51:38 [notice] 10812#9524: create thread 9820
+2017/08/16 12:51:38 [notice] 10812#9524: create thread 9756
+2017/08/16 12:51:38 [notice] 10812#9524: create thread 7280
+2017/08/16 12:51:38 [notice] 2780#10196: start worker process 9624
+2017/08/16 12:51:38 [notice] 9624#9300: nginx/1.12.1
+2017/08/16 12:51:38 [info] 9624#9300: OS: 260200 build:9200, "", suite:100, type:1
+2017/08/16 12:51:38 [notice] 9624#9300: create thread 10640
+2017/08/16 12:51:38 [notice] 9624#9300: create thread 608
+2017/08/16 12:51:38 [notice] 9624#9300: create thread 10012
+2017/08/16 12:51:39 [notice] 2780#10196: worker process 2924 exited with code 0
+2017/08/16 12:51:39 [notice] 188#7832: signal process started
+2017/08/16 12:51:39 [notice] 2780#10196: reconfiguring
+2017/08/16 12:51:39 [notice] 2780#10196: using the "select" event method
+2017/08/16 12:51:39 [notice] 2780#10196: start worker processes
+2017/08/16 12:51:39 [notice] 2780#10196: start worker process 4676
+2017/08/16 12:51:39 [notice] 4676#9552: nginx/1.12.1
+2017/08/16 12:51:39 [info] 4676#9552: OS: 260200 build:9200, "", suite:100, type:1
+2017/08/16 12:51:39 [notice] 4676#9552: create thread 10160
+2017/08/16 12:51:39 [notice] 4676#9552: create thread 10588
+2017/08/16 12:51:39 [notice] 4676#9552: create thread 10628
+2017/08/16 12:51:39 [notice] 2780#10196: start worker process 10088
+2017/08/16 12:51:39 [notice] 10088#3172: nginx/1.12.1
+2017/08/16 12:51:39 [info] 10088#3172: OS: 260200 build:9200, "", suite:100, type:1
+2017/08/16 12:51:39 [notice] 10088#3172: create thread 4016
+2017/08/16 12:51:39 [notice] 10088#3172: create thread 7608
+2017/08/16 12:51:39 [notice] 9624#9300: gracefully shutting down
+2017/08/16 12:51:39 [notice] 10812#9524: gracefully shutting down
+2017/08/16 12:51:39 [notice] 10088#3172: create thread 6456
+2017/08/16 12:51:39 [notice] 9624#608: exiting
+2017/08/16 12:51:39 [notice] 10812#9756: exiting
+2017/08/16 12:51:39 [notice] 10812#9820: exiting
+2017/08/16 12:51:39 [notice] 10812#9524: exit
+2017/08/16 12:51:39 [notice] 2780#10196: worker process 10812 exited with code 0
+2017/08/16 12:51:39 [notice] 9624#10640: exiting
+2017/08/16 12:51:39 [notice] 9624#9300: exit
+2017/08/16 12:51:39 [notice] 2780#10196: worker process 9624 exited with code 0
+2017/08/16 12:51:40 [notice] 5264#6848: signal process started
+2017/08/16 12:51:40 [notice] 2780#10196: reconfiguring
+2017/08/16 12:51:40 [notice] 2780#10196: using the "select" event method
+2017/08/16 12:51:40 [notice] 2780#10196: start worker processes
+2017/08/16 12:51:40 [notice] 2780#10196: start worker process 8784
+2017/08/16 12:51:40 [notice] 8784#4456: nginx/1.12.1
+2017/08/16 12:51:40 [info] 8784#4456: OS: 260200 build:9200, "", suite:100, type:1
+2017/08/16 12:51:40 [notice] 8784#4456: create thread 9508
+2017/08/16 12:51:40 [notice] 8784#4456: create thread 1060
+2017/08/16 12:51:40 [notice] 8784#4456: create thread 9768
+2017/08/16 12:51:40 [notice] 2780#10196: start worker process 3944
+2017/08/16 12:51:40 [notice] 3944#5784: nginx/1.12.1
+2017/08/16 12:51:40 [info] 3944#5784: OS: 260200 build:9200, "", suite:100, type:1
+2017/08/16 12:51:40 [notice] 3944#5784: create thread 10056
+2017/08/16 12:51:40 [notice] 3944#5784: create thread 9472
+2017/08/16 12:51:40 [notice] 4676#9552: gracefully shutting down
+2017/08/16 12:51:40 [notice] 10088#3172: gracefully shutting down
+2017/08/16 12:51:40 [notice] 3944#5784: create thread 9744
+2017/08/16 12:51:40 [notice] 4676#10588: exiting
+2017/08/16 12:51:40 [notice] 10088#7608: exiting
+2017/08/16 12:51:40 [notice] 4676#10160: exiting
+2017/08/16 12:51:40 [notice] 4676#9552: exit
+2017/08/16 12:51:40 [notice] 2780#10196: worker process 4676 exited with code 0
+2017/08/16 12:51:40 [notice] 10088#4016: exiting
+2017/08/16 12:51:40 [notice] 10088#3172: exit
+2017/08/16 12:51:40 [notice] 2780#10196: worker process 10088 exited with code 0
+2017/08/16 12:51:41 [notice] 6340#1760: signal process started
+2017/08/16 12:51:41 [notice] 2780#10196: reconfiguring
+2017/08/16 12:51:41 [notice] 2780#10196: using the "select" event method
+2017/08/16 12:51:41 [notice] 2780#10196: start worker processes
+2017/08/16 12:51:41 [notice] 2780#10196: start worker process 8600
+2017/08/16 12:51:41 [notice] 8600#4876: nginx/1.12.1
+2017/08/16 12:51:41 [info] 8600#4876: OS: 260200 build:9200, "", suite:100, type:1
+2017/08/16 12:51:41 [notice] 8600#4876: create thread 10572
+2017/08/16 12:51:41 [notice] 8600#4876: create thread 4584
+2017/08/16 12:51:41 [notice] 8600#4876: create thread 4372
+2017/08/16 12:51:41 [notice] 2780#10196: start worker process 10876
+2017/08/16 12:51:41 [notice] 10876#10596: nginx/1.12.1
+2017/08/16 12:51:41 [info] 10876#10596: OS: 260200 build:9200, "", suite:100, type:1
+2017/08/16 12:51:41 [notice] 10876#10596: create thread 2316
+2017/08/16 12:51:41 [notice] 10876#10596: create thread 10376
+2017/08/16 12:51:41 [notice] 3944#5784: gracefully shutting down
+2017/08/16 12:51:41 [notice] 8784#4456: gracefully shutting down
+2017/08/16 12:51:41 [notice] 10876#10596: create thread 9912
+2017/08/16 12:51:41 [notice] 3944#9472: exiting
+2017/08/16 12:51:41 [notice] 8784#1060: exiting
+2017/08/16 12:51:41 [notice] 8784#9508: exiting
+2017/08/16 12:51:41 [notice] 8784#4456: exit
+2017/08/16 12:51:41 [notice] 2780#10196: worker process 8784 exited with code 0
+2017/08/16 12:51:41 [notice] 3944#10056: exiting
+2017/08/16 12:51:41 [notice] 3944#5784: exit
+2017/08/16 12:51:41 [notice] 2780#10196: worker process 3944 exited with code 0
+2017/08/16 12:51:48 [notice] 2780#10196: worker process 7132 exited with code 0
+2017/08/16 12:52:34 [info] 8600#10572: *63 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:80
+2017/08/16 12:52:34 [info] 8600#10572: *64 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:80
+2017/08/16 12:52:39 [warn] 8600#10572: *61 upstream server temporarily disabled while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:8080/welcome.jsp", host: "localhost"
+2017/08/16 12:52:39 [error] 8600#10572: *61 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:8080/welcome.jsp", host: "localhost"
+2017/08/16 12:52:48 [info] 8600#10572: *66 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:80
+2017/08/16 12:52:48 [info] 8600#10572: *67 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:80
+2017/08/16 12:53:21 [info] 8600#10572: *61 client 127.0.0.1 closed keepalive connection
+2017/08/16 12:53:21 [info] 8600#10572: *60 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:80
+2017/08/16 12:53:24 [info] 8600#10572: *69 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:80
+2017/08/16 12:53:24 [info] 8600#10572: *70 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:80
+2017/08/16 13:02:32 [notice] 10364#9728: signal process started
+2017/08/16 13:02:32 [notice] 2780#10196: reconfiguring
+2017/08/16 13:02:33 [notice] 10876#10596: gracefully shutting down
+2017/08/16 13:02:33 [notice] 8600#4876: gracefully shutting down
+2017/08/16 13:02:33 [notice] 10876#10376: exiting
+2017/08/16 13:02:33 [notice] 8600#4584: exiting
+2017/08/16 13:02:33 [notice] 10876#2316: exiting
+2017/08/16 13:02:33 [notice] 10876#10596: exit
+2017/08/16 13:02:33 [notice] 8600#10572: exiting
+2017/08/16 13:02:33 [notice] 8600#4876: exit
+2017/08/16 13:07:55 [emerg] 2180#1884: "proxy_pass" cannot have URI part in location given by regular expression, or inside named location, or inside "if" statement, or inside "limit_except" block in E:\nginx-1.12.1/conf/nginx.conf:63
+2017/08/16 13:09:52 [notice] 4656#11064: signal process started
+2017/08/16 13:09:54 [notice] 9428#7236: signal process started
+2017/08/16 13:09:55 [notice] 3256#2344: signal process started
+2017/08/16 13:09:56 [notice] 1768#3324: signal process started
+2017/08/16 13:09:58 [notice] 7616#1548: signal process started
+2017/08/16 13:15:06 [emerg] 4264#9144: invalid URL prefix in E:\nginx-1.12.1/conf/nginx.conf:72
+2017/08/16 13:15:45 [notice] 9340#11224: signal process started
+2017/08/16 13:15:47 [notice] 244#9768: signal process started
+2017/08/16 13:15:48 [notice] 10152#4424: signal process started
+2017/08/16 13:15:49 [notice] 11228#9996: signal process started
+2017/08/16 13:15:54 [error] 10776#5800: *80 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/welcome.jsp" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:15:54 [error] 10776#5800: *80 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:17:05 [notice] 4228#9504: signal process started
+2017/08/16 13:17:06 [notice] 10824#8804: signal process started
+2017/08/16 13:17:06 [notice] 10932#7064: signal process started
+2017/08/16 13:17:07 [notice] 3500#10108: signal process started
+2017/08/16 13:18:44 [error] 9940#10144: *84 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/welcome.jsp" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:18:44 [error] 9940#10144: *84 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:18:53 [error] 9940#10144: *84 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/welcome.jsp" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:18:53 [error] 9940#10144: *84 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:18:57 [error] 9940#10144: *84 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/welcome.jsp" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:18:57 [error] 9940#10144: *84 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:18:57 [error] 9940#10144: *84 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/welcome.jsp" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:18:57 [error] 9940#10144: *84 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:18:58 [error] 9940#10144: *84 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/welcome.jsp" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:18:58 [error] 9940#10144: *84 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:18:58 [error] 9940#10144: *84 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/welcome.jsp" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:18:58 [error] 9940#10144: *84 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:18:58 [error] 9940#10144: *84 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/welcome.jsp" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:18:58 [error] 9940#10144: *84 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:18:58 [error] 9940#10144: *84 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/welcome.jsp" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:18:58 [error] 9940#10144: *84 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:18:59 [error] 9940#10144: *84 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/welcome.jsp" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:18:59 [error] 9940#10144: *84 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:19:02 [notice] 11172#2436: signal process started
+2017/08/16 13:19:03 [notice] 4712#1908: signal process started
+2017/08/16 13:19:04 [notice] 3092#9824: signal process started
+2017/08/16 13:19:07 [error] 9940#10144: *83 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/welcome.jsp" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:19:07 [error] 9940#10144: *83 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:19:08 [error] 10008#7528: *88 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/welcome.jsp" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:19:08 [error] 10008#7528: *88 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:19:09 [error] 10008#7528: *88 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/welcome.jsp" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:19:09 [error] 10008#7528: *88 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:22:27 [error] 10008#7528: *105 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/welcome.jsp" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:22:27 [error] 10008#7528: *105 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:22:29 [error] 10008#7528: *105 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/welcome.jsp" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:22:29 [error] 10008#7528: *105 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.1", host: "localhost"
+2017/08/16 13:24:32 [notice] 2852#10152: signal process started
+2017/08/16 13:24:33 [notice] 10324#5664: signal process started
+2017/08/16 13:24:34 [notice] 8892#9888: signal process started
+2017/08/16 13:24:35 [notice] 10788#7524: signal process started
+2017/08/16 13:26:09 [notice] 7984#6548: signal process started
+2017/08/16 13:26:14 [notice] 2640#8012: signal process started
+2017/08/16 13:30:58 [notice] 10592#10428: signal process started
+2017/08/16 13:30:59 [notice] 11172#10476: signal process started
+2017/08/16 13:31:00 [notice] 7804#3092: signal process started
+2017/08/16 13:31:01 [notice] 4772#4876: signal process started
+2017/08/16 13:32:22 [notice] 5672#5936: signal process started
+2017/08/16 13:32:23 [notice] 4248#1492: signal process started
+2017/08/16 13:32:24 [notice] 10356#8692: signal process started
+2017/08/16 13:32:24 [notice] 8992#5556: signal process started
+2017/08/16 13:34:04 [notice] 7696#2444: signal process started
+2017/08/16 13:34:05 [notice] 7256#4360: signal process started
+2017/08/16 13:34:06 [notice] 7628#11236: signal process started
+2017/08/16 13:34:07 [notice] 448#10816: signal process started
+2017/08/16 13:34:08 [notice] 9964#1768: signal process started
+2017/08/16 13:36:03 [notice] 9016#3056: signal process started
+2017/08/16 13:36:04 [notice] 6652#9856: signal process started
+2017/08/16 13:36:05 [notice] 4680#5572: signal process started
+2017/08/16 13:36:05 [notice] 10192#5576: signal process started
+2017/08/16 13:38:06 [emerg] 9568#5536: unknown directive "upstrea" in E:\nginx-1.12.1/conf/nginx.conf:51
+2017/08/16 13:38:35 [emerg] 4216#6196: upstream "localhost" may not have port 8080 in E:\nginx-1.12.1/conf/nginx.conf:91
+2017/08/16 13:39:23 [emerg] 6652#11096: upstream "localhost" may not have port 8080 in E:\nginx-1.12.1/conf/nginx.conf:91
+2017/08/16 13:40:15 [emerg] 9560#5556: upstream "localhost" may not have port 8080 in E:\nginx-1.12.1/conf/nginx.conf:91
+2017/08/16 13:40:37 [emerg] 10816#6224: upstream "localhost" may not have port 8080 in E:\nginx-1.12.1/conf/nginx.conf:91
+2017/08/16 13:40:55 [emerg] 6564#10996: upstream "localhost" may not have port 8080 in E:\nginx-1.12.1/conf/nginx.conf:91
+2017/08/16 13:40:56 [emerg] 4264#5628: upstream "localhost" may not have port 8080 in E:\nginx-1.12.1/conf/nginx.conf:91
+2017/08/16 13:41:14 [error] 5316#9432: *23 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ibooker/web/article/list/1 HTTP/1.1", upstream: "http://[::1]:8080/ibooker/web/article/list/1", host: "localhost", referrer: "http://localhost/ibooker/"
+2017/08/16 13:42:05 [notice] 11120#5232: signal process started
+2017/08/16 13:42:08 [notice] 9464#11196: signal process started
+2017/08/16 13:42:14 [notice] 9332#4356: signal process started
+2017/08/16 13:42:20 [notice] 7452#2836: signal process started
+2017/08/16 13:43:57 [notice] 10128#10228: signal process started
+2017/08/16 13:43:58 [notice] 7804#8056: signal process started
+2017/08/16 13:43:58 [notice] 11028#10776: signal process started
+2017/08/16 13:43:59 [notice] 6288#10404: signal process started
+2017/08/16 13:44:00 [notice] 4876#9808: signal process started
+2017/08/16 13:44:02 [notice] 7588#10788: signal process started
+2017/08/16 13:44:28 [notice] 7804#1752: signal process started
+2017/08/16 13:44:38 [notice] 6948#6520: signal process started
+2017/08/16 13:44:41 [notice] 9568#8992: signal process started
+2017/08/16 13:44:45 [notice] 10660#8924: signal process started
+2017/08/16 13:45:03 [error] 5224#4264: *1 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ibooker/web/article/list/1 HTTP/1.1", upstream: "http://[::1]:8080/ibooker/web/article/list/1", host: "localhost", referrer: "http://localhost/ibooker/"
+2017/08/16 13:45:35 [error] 5224#4264: *13 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ibooker/ HTTP/1.1", upstream: "http://[::1]:8080/ibooker/", host: "localhost"
+2017/08/16 13:48:12 [emerg] 2800#7968: "proxy_pass" cannot have URI part in location given by regular expression, or inside named location, or inside "if" statement, or inside "limit_except" block in E:\nginx-1.12.1/conf/nginx.conf:102
+2017/08/16 13:49:48 [emerg] 10320#348: "proxy_pass" cannot have URI part in location given by regular expression, or inside named location, or inside "if" statement, or inside "limit_except" block in E:\nginx-1.12.1/conf/nginx.conf:102
+2017/08/16 13:49:57 [notice] 10200#10112: signal process started
+2017/08/16 13:53:54 [error] 1248#6600: *1 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ibooker/web/article/list/1 HTTP/1.1", upstream: "http://[::1]:8080/ibooker/web/article/list/1", host: "localhost", referrer: "http://localhost/ibooker/"
+2017/08/16 13:54:53 [error] 1248#6600: *18 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 13:54:53 [error] 1248#6600: *18 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 13:55:01 [error] 1248#6600: *18 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ibooker/ HTTP/1.1", upstream: "http://[::1]:8080/ibooker/", host: "localhost"
+2017/08/16 13:55:01 [error] 1248#6600: *19 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/ibooker/"
+2017/08/16 13:55:01 [error] 1248#6600: *19 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/ibooker/"
+2017/08/16 13:55:22 [error] 1248#6600: *27 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 13:55:22 [error] 1248#6600: *27 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 13:55:22 [error] 1248#6600: *27 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 13:55:22 [error] 1248#6600: *27 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 13:55:46 [error] 1248#6600: *33 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ibooker/ HTTP/1.1", upstream: "http://[::1]:8080/ibooker/", host: "localhost"
+2017/08/16 13:55:46 [error] 1248#6600: *33 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/ibooker/"
+2017/08/16 13:55:46 [error] 1248#6600: *33 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/ibooker/"
+2017/08/16 14:06:54 [error] 8784#8284: *1 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ibooker/web/article/list/1 HTTP/1.1", upstream: "http://[::1]:8080/ibooker/web/article/list/1", host: "localhost", referrer: "http://localhost/ibooker/"
+2017/08/16 14:07:21 [error] 8784#8284: *10 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/ibooker/"
+2017/08/16 14:07:21 [error] 8784#8284: *10 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/ibooker/"
+2017/08/16 14:07:40 [error] 8784#8284: *18 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ibooker/ HTTP/1.1", upstream: "http://[::1]:8080/ibooker/", host: "localhost"
+2017/08/16 14:07:40 [error] 8784#8284: *18 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:40 [error] 8784#8284: *18 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:40 [error] 8784#8284: *18 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:40 [error] 8784#8284: *18 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:49 [error] 8784#8284: *25 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:49 [error] 8784#8284: *25 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:52 [error] 8784#8284: *25 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:52 [error] 8784#8284: *25 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:52 [error] 8784#8284: *25 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:52 [error] 8784#8284: *25 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:52 [error] 8784#8284: *25 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:52 [error] 8784#8284: *25 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:52 [error] 8784#8284: *25 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:52 [error] 8784#8284: *25 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:52 [error] 8784#8284: *25 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:52 [error] 8784#8284: *25 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:52 [error] 8784#8284: *25 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:52 [error] 8784#8284: *25 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:52 [error] 8784#8284: *25 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:52 [error] 8784#8284: *25 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:52 [error] 8784#8284: *25 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:52 [error] 8784#8284: *25 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 14:07:53 [error] 8784#8284: *26 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/ibooker/"
+2017/08/16 14:07:53 [error] 8784#8284: *26 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/ibooker/"
+2017/08/16 14:08:10 [error] 8784#8284: *35 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ibooker/ HTTP/1.1", upstream: "http://[::1]:8080/ibooker/", host: "localhost"
+2017/08/16 16:36:28 [error] 8784#8284: *52 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /welcome.jsp HTTP/1.0", upstream: "http://[::1]:80/welcome.jsp", host: "localhost"
+2017/08/16 16:36:44 [error] 8784#8284: *50 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ibooker/ HTTP/1.1", upstream: "http://[::1]:8080/ibooker/", host: "localhost"
+2017/08/16 16:40:44 [notice] 4212#11900: signal process started
+2017/08/16 16:40:47 [notice] 11872#11204: signal process started
+2017/08/16 16:40:48 [notice] 8888#11652: signal process started
+2017/08/16 16:41:07 [error] 7864#11208: *1544 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /ibooker/web/article/list/1 HTTP/1.1", upstream: "http://[::1]:8080/ibooker/web/article/list/1", host: "localhost", referrer: "http://localhost/ibooker/welcome.jsp"
+2017/08/16 16:59:58 [error] 7864#11208: *1548 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 16:59:58 [error] 7864#11208: *1548 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 16:59:58 [error] 7864#11208: *1550 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "www.localhost"
+2017/08/16 16:59:58 [error] 7864#11208: *1550 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "www.localhost"
+2017/08/16 17:02:53 [error] 7864#11208: *1552 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 17:02:53 [error] 7864#11208: *1552 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 17:02:53 [error] 7864#11208: *1554 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "www.localhost"
+2017/08/16 17:02:53 [error] 7864#11208: *1554 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "www.localhost"
+2017/08/16 17:13:03 [error] 7864#11208: *1561 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 17:13:03 [error] 7864#11208: *1561 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/08/16 17:13:03 [error] 7864#11208: *1563 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "www.localhost"
+2017/08/16 17:13:03 [error] 7864#11208: *1563 CreateFile() "E:/MyEclipse/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72/webapps/404.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "www.localhost"
